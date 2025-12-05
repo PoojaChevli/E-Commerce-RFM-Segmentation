@@ -1,0 +1,6 @@
+# Jupyter/Python files
+.ipynb_checkpoints/
+__pycache__/
+
+# System files
+.DS_Store
